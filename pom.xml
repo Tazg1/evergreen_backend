@@ -12,8 +12,6 @@
 	<artifactId>evergreen</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>evergreen</name>
-	<description>Farm food at your finger tips.</description>
-	<description>Food</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
